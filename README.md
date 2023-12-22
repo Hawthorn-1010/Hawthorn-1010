@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Hawthorn-1010/Hawthorn-1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+
+- 🔭Backend Developer
+- 📫How to reach me **[Email](mailto:joisehe2001@gmail.com)**
+
+
